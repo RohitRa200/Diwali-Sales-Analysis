@@ -46,4 +46,4 @@ The dataset used in this analysis includes the following columns:
 ## Conclusion
 The analysis indicates that married women aged 26-35 from specific states and working in certain sectors are more likely to buy products in targeted categories during Diwali. This insight can be leveraged to tailor marketing campaigns and optimize inventory for future festivals.
 
-For more detailed insights and visualizations, please refer to the Jupyter Notebook file associated with this project.
+For more detailed insights and visualizations, please refer to the Jupyter Notebook and PDF file associated with this project.
