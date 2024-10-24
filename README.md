@@ -1,4 +1,6 @@
-# Diwali Sales Analysis
+# Diwali Sales Analysis 
+![image](https://github.com/user-attachments/assets/8f0e5bd0-bd31-40cc-af41-f6af00ad055c)
+
 
 ## Project Overview
 This project analyzes consumer behavior during the Diwali festival by examining sales data. The analysis aims to uncover trends in purchasing patterns, particularly focusing on married women aged 26-35 from Uttar Pradesh, Maharashtra, and Karnataka. Insights gained will help inform targeted marketing strategies for future sales.
