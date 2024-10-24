@@ -49,29 +49,16 @@ The dataset used in this analysis includes the following columns:
 ## Visualizations
 The following visualizations represent key insights from the analysis. Each image is captioned for clarity.
 
-### Visualization 1: Amount spent v/s Age Group
-![Visualization 1: Gender Distribution](https://github.com/user-attachments/assets/5fa31b82-cc05-4e71-ab80-13d12816dedb)
-
-### Visualization 2: Gender Distribution
-![Visualization 2: Purchasing Patterns by Age Group](https://github.com/user-attachments/assets/a7a654e0-7de9-4e18-98c3-0d9e51d05fca)
-
-### Visualization 3: Relationship Between Total Sales Amount and Occupations
-![Visualization 3: Relationship Between Total Sales Amount and Occupations](https://github.com/user-attachments/assets/c3de79a8-f89b-4dbd-8650-abb81a67d712)
-
-### Visualization 4: State-Wise Sales Distribution
-![Visualization 4: State-Wise Sales Distribution](![image](https://github.com/user-attachments/assets/51ed6eee-35f1-4214-aa8c-b7e33ae589d2)
-)
-
-### Visualization 5: Top Product Categories Purchased by Married Women
-![Visualization 5: Top Product Categories Purchased by Married Women](https://github.com/user-attachments/assets/placeholder-for-visualization-5)
-
-### Visualization 6: Total Orders by Product Categories
-![Visualization 6: Total Orders by Product Categories](https://github.com/user-attachments/assets/placeholder-for-visualization-6)
-
-### Visualization 7: Average Amount Spent Per Order by Age Group
-![Visualization 7: Average Amount Spent Per Order by Age Group](![image](https://github.com/user-attachments/assets/50e72c2d-0ce0-4021-bc25-b8351e7a1dbd)
-)
-
+![image](https://github.com/user-attachments/assets/afcd50c9-7a4e-4418-a2dd-5dba699cdd96)
+![image](https://github.com/user-attachments/assets/2ac635cd-f9ec-4fb5-ad25-cb469f7e1f32)
+![image](https://github.com/user-attachments/assets/a7449dfe-0cd1-46d0-b162-e71562b2812b)
+![image](https://github.com/user-attachments/assets/47b401d8-7511-4ad5-9077-dc253ab2df4a)
+![image](https://github.com/user-attachments/assets/5f2e570f-83b6-4dc6-9025-03039604a15d)
+![image](https://github.com/user-attachments/assets/39b56593-a747-408d-8f06-2b6694331a08)
+![image](https://github.com/user-attachments/assets/7645e288-45ce-4a65-be30-75588f0b0059)
+![image](https://github.com/user-attachments/assets/49d259b2-4489-4ffb-9355-6e9e08589f67)
+![image](https://github.com/user-attachments/assets/8b15ae21-4dad-4316-b09d-7adbf323909a)
+![image](https://github.com/user-attachments/assets/4433256a-f527-4db9-af10-33011405c9a5)
 
 
 
