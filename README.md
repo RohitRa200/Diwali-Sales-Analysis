@@ -47,16 +47,29 @@ The dataset used in this analysis includes the following columns:
 - Women working in IT, Healthcare, and Aviation sectors exhibited higher spending patterns during the festival.
 
 ## Visualizations
-The following visualizations represent key insights from the analysis. Each image should be captioned for clarity.
+The following visualizations represent key insights from the analysis. Each image is captioned for clarity.
 
-![Visualization 1: Gender Distribution](![image](https://github.com/user-attachments/assets/5fa31b82-cc05-4e71-ab80-13d12816dedb)
-)
+### Visualization 1: Gender Distribution
+![Visualization 1: Gender Distribution](https://github.com/user-attachments/assets/5fa31b82-cc05-4e71-ab80-13d12816dedb)
 
-![Visualization 2: Purchasing Patterns by Age Group](![image](https://github.com/user-attachments/assets/a7a654e0-7de9-4e18-98c3-0d9e51d05fca)
-)
+### Visualization 2: Purchasing Patterns by Age Group
+![Visualization 2: Purchasing Patterns by Age Group](https://github.com/user-attachments/assets/a7a654e0-7de9-4e18-98c3-0d9e51d05fca)
 
-![Visualization 3: Relationship Between Total sales Amount and Occupations ](![image](https://github.com/user-attachments/assets/c3de79a8-f89b-4dbd-8650-abb81a67d712)
-)
+### Visualization 3: Relationship Between Total Sales Amount and Occupations
+![Visualization 3: Relationship Between Total Sales Amount and Occupations](https://github.com/user-attachments/assets/c3de79a8-f89b-4dbd-8650-abb81a67d712)
+
+### Visualization 4: State-Wise Sales Distribution
+![Visualization 4: State-Wise Sales Distribution](https://github.com/user-attachments/assets/placeholder-for-visualization-4)
+
+### Visualization 5: Top Product Categories Purchased by Married Women
+![Visualization 5: Top Product Categories Purchased by Married Women](https://github.com/user-attachments/assets/placeholder-for-visualization-5)
+
+### Visualization 6: Total Orders by Product Categories
+![Visualization 6: Total Orders by Product Categories](https://github.com/user-attachments/assets/placeholder-for-visualization-6)
+
+### Visualization 7: Average Amount Spent Per Order by Age Group
+![Visualization 7: Average Amount Spent Per Order by Age Group](https://github.com/user-attachments/assets/placeholder-for-visualization-7)
+
 
 
 
