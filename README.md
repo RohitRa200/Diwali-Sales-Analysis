@@ -49,13 +49,16 @@ The dataset used in this analysis includes the following columns:
 ## Visualizations
 The following visualizations represent key insights from the analysis. Each image should be captioned for clarity.
 
-![Visualization 1: Gender Distribution](path/to/your/image1.png)
+![Visualization 1: Gender Distribution](![image](https://github.com/user-attachments/assets/5fa31b82-cc05-4e71-ab80-13d12816dedb)
+)
 
-![Visualization 2: Purchasing Patterns by Age Group](path/to/your/image2.png)
+![Visualization 2: Purchasing Patterns by Age Group](![image](https://github.com/user-attachments/assets/a7a654e0-7de9-4e18-98c3-0d9e51d05fca)
+)
 
-![Visualization 3: Relationship Between Product Categories and Consumer Demographics](path/to/your/image3.png)
+![Visualization 3: Relationship Between Total sales Amount and Occupations ](![image](https://github.com/user-attachments/assets/c3de79a8-f89b-4dbd-8650-abb81a67d712)
+)
 
-*Add additional visualizations as necessary.*
+
 
 ## Conclusion
 The analysis indicates that married women aged 26-35 from specific states and working in certain sectors are more likely to buy products in targeted categories during Diwali. This insight can be leveraged to tailor marketing campaigns and optimize inventory for future festivals.
